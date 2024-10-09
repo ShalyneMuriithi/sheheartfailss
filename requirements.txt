@@ -1,3 +1,3 @@
 pickle
 app.py
-skicit-learn
+scikit-learn
